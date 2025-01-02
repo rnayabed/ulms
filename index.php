@@ -91,21 +91,6 @@
             $conn->close();
 
             ?>
-            <!-- <div class="book">
-                <img src="./assets/brave-new-world.jpg" alt="book cover">
-                <div class="book-info">
-                    <p class="title">Brave new world</p>
-                    <p class="author">By Aldous Huxley</p>
-                    <p class="publisher">Published by Chatto & Windus</p>
-                    <p class="year">Year 1932</p>
-                    <spacer></spacer>
-                    <form method="POST">
-                        <input type="hidden" name="delete" value="1">
-                        <input type="hidden" name="isbn" value="1234">
-                        <button type="submit" class="book-delete">Delete</button>
-                    </form>
-                </div>
-            </div> -->
         </div>
     </main>
 </body>
